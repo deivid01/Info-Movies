@@ -9,26 +9,26 @@
 <h3 align = "center"> Info Movies - By TMDB</h3>
 <br>
 <div align = "center">
-<img src="info_movies/public/IMG/Capturar1.PNG" width="500px">
+<img src="public/IMG/Capturar1.PNG" width="500px">
 </div>
 <br>
 <h3 align = "center"> Exemplo de pesquisa de filmes</h3>
 <br>
 <div align="center">
-<img src="info_movies/public/IMG/Capturar3.PNG" width = "500px">
+<img src="public/IMG/Capturar3.PNG" width = "500px">
 </div>
 <br>
 <div align="center">
-<img src="info_movies/public/IMG/Capturar4.PNG" width = "500px">
+<img src="public/IMG/Capturar4.PNG" width = "500px">
 </div>
 <br>
 <h3 align = "center"> Página de um filme com os detalhes</h3>
 <br>
 <div align="center">
-<img src="info_movies/public/IMG/Capturar6.PNG" width = "500px">
+<img src="public/IMG/Capturar6.PNG" width = "500px">
 </div>
 <br>
 <div align="center">
-<img src="info_movies/public/IMG/Capturar7.PNG" width = "500px">
+<img src="public/IMG/Capturar7.PNG" width = "500px">
 </div>
 <br>
