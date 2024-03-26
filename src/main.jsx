@@ -10,7 +10,7 @@ import Search from './pages/search.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename='/Info-Movies'>
       <Routes>
         <Route element={<App />}>
           <Route index element={<Home />} />
